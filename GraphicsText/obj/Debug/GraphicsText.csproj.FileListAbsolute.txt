@@ -1,0 +1,5 @@
+c:\users\1337\documents\visual studio 2015\Projects\GraphicsText\GraphicsText\bin\Debug\GraphicsText.exe
+c:\users\1337\documents\visual studio 2015\Projects\GraphicsText\GraphicsText\bin\Debug\GraphicsText.pdb
+c:\users\1337\documents\visual studio 2015\Projects\GraphicsText\GraphicsText\obj\Debug\GraphicsText.csprojResolveAssemblyReference.cache
+c:\users\1337\documents\visual studio 2015\Projects\GraphicsText\GraphicsText\obj\Debug\GraphicsText.exe
+c:\users\1337\documents\visual studio 2015\Projects\GraphicsText\GraphicsText\obj\Debug\GraphicsText.pdb
